@@ -1,0 +1,7 @@
+{
+  "name": "projetoHorta",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
