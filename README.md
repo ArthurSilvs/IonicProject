@@ -1,3 +1,2 @@
 # IonicProject
-Projeto feito na ETE AVS em Ionic
-Projeto Minha Horta - Aprendendo Linguagem
+Projeto Minha Horta ETE AVS - Aprendendo Linguagem Ionic
